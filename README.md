@@ -1,6 +1,11 @@
 # MovieApp
 ## This project is movie search application.
 
+* Android
+* Volley
+* Recyclerview
+* Sharedpreferences
+
 ### Screen 1
 ![slide1](https://user-images.githubusercontent.com/59722470/80853429-d1f36500-8c6b-11ea-91ec-b111c17ec46c.PNG)
 
